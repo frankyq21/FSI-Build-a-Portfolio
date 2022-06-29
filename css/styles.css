@@ -1,0 +1,15 @@
+body {background-color: rgb(229, 163, 76);
+    color: blueviolet;
+    text-align: center;
+    font-size:20px;
+}
+.main-section{
+    border:6px dashed purple;
+    text-aling: center;
+    font-size: 40px;}
+.SoftwareDeveloper{
+    border: 3px;
+    background-color: aqua;}
+.image{
+    border-radius:5in;
+}
